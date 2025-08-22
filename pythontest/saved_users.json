@@ -1,0 +1,50 @@
+[
+  {
+    "first_name": "John Benedict",
+    "last_name": "Tabor",
+    "birthday": "August 08, 2003",
+    "address": "B1 L58 P3, Pearl St. Olivarez Homes South, Brgy. Sto. Tomas, Binan City, Laguna",
+    "email": "johnbenedicttabor08@gmail.com",
+    "phone": "09491415556",
+    "gender": "Male",
+    "position": "Employee",
+    "employee_id": "220100174",
+    "notes": "n/a, test test test"
+  },
+  {
+    "first_name": "ajkshdhasjkhdkj",
+    "last_name": "aksjdhaskjhdkjh",
+    "birthday": "aksjdhkajshdjk",
+    "address": "askjdhaskjhdsakjhd",
+    "email": "asdasdsadsa",
+    "phone": "aasdasdsad",
+    "gender": "Male",
+    "position": "asdasdsad",
+    "employee_id": "asdasdasd",
+    "notes": ""
+  },
+  {
+    "first_name": "John Benedict",
+    "last_name": "Tabor",
+    "birthday": "08/08/2003",
+    "address": "B1 L58 P3, Pearl St. Olivarez Homes South, Brgy. Sto. Tomas, Binan City, Laguna",
+    "email": "johnbenedicttabor08@gmail.com",
+    "phone": "09491415556",
+    "gender": "Male",
+    "position": "Machine Operator",
+    "employee_id": "220100174",
+    "notes": "asdfghj"
+  },
+  {
+    "first_name": "John Benedict",
+    "last_name": "Tabor",
+    "birthday": "08/08/2003",
+    "address": "B1 L58 P3, Pearl St., Olivarez Homes South, Brgy. Sto. Tomas, Binan, Laguna",
+    "email": "johnbenedicttabor08@gmail.com",
+    "phone": "09491415556",
+    "gender": "Male",
+    "position": "Machine Operator",
+    "employee_id": "220100174",
+    "notes": "Testing lang i2"
+  }
+]
